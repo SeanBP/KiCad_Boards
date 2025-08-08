@@ -58,13 +58,11 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Muonaut_Board.kicad_prl",
+    "filename": "Dummy Board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -86,9 +84,7 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
       156,
@@ -99,8 +95,6 @@
       103,
       103,
       74,
-      103,
-      103,
       103,
       103
     ],

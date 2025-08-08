@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.89,
-          "height": 1.398,
-          "width": 1.398
+          "drill": 0.0,
+          "height": 0.7,
+          "width": 0.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -230,7 +230,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "8_Ch_Connector_CAEN_Adapter.kicad_pro",
+    "filename": "32_S13360_6025PS_SiPMs_3x3_inch.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -269,7 +269,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "8_Ch_Connector_CAEN_Adapter.stl",
+      "step": "",
       "svg": "",
       "vrml": ""
     },
