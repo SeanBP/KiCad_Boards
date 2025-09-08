@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-09-03T12:41:14-07:00"
+    "CreationDate": "2025-09-02T16:46:01-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "8_Ch_Connector_CAEN_Adapter",
-      "GUID": "385f4368-5f43-46f6-9e6e-6563746f725f",
+      "Name": "32_S13360_6025PS_SiPMs_3x3_inch",
+      "GUID": "33325f53-3133-4333-9630-5f3630323550",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 83.55,
-      "Y": 80.05
+      "X": 116.57,
+      "Y": 80.16
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Cu.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Cu.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Paste.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Paste.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Silkscreen.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Silkscreen.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Mask.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Mask.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-Edge_Cuts.gbr",
+      "Path": "32_S13360_6025PS_SiPMs_3x3_inch-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

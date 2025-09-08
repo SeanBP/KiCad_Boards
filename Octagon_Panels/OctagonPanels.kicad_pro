@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.8,
-          "width": 0.55
+          "height": 2.7,
+          "width": 1.15
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -230,7 +230,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "9Ch_Edge_Card.kicad_pro",
+    "filename": "OctagonPanels.kicad_pro",
     "version": 3
   },
   "net_settings": {

@@ -5,19 +5,19 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-09-03T12:41:14-07:00"
+    "CreationDate": "2025-09-03T15:42:16-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "8_Ch_Connector_CAEN_Adapter",
-      "GUID": "385f4368-5f43-46f6-9e6e-6563746f725f",
+      "Name": "OctagonPanels",
+      "GUID": "4f637461-676f-46e5-9061-6e656c732e6b",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 83.55,
-      "Y": 80.05
+      "X": 420.45,
+      "Y": 48.85
     },
-    "LayerNumber": 2,
+    "LayerNumber": 4,
     "BoardThickness": 1.6,
     "Finish": "None"
   },
@@ -30,51 +30,67 @@
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Cu.gbr",
+      "Path": "OctagonPanels-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
+      "Path": "OctagonPanels-In1_Cu.gbr",
+      "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Paste.gbr",
+      "Path": "OctagonPanels-In2_Cu.gbr",
+      "FileFunction": "Copper,L7,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "OctagonPanels-B_Cu.gbr",
+      "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "OctagonPanels-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Paste.gbr",
+      "Path": "OctagonPanels-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Silkscreen.gbr",
+      "Path": "OctagonPanels-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Silkscreen.gbr",
+      "Path": "OctagonPanels-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-F_Mask.gbr",
+      "Path": "OctagonPanels-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-B_Mask.gbr",
+      "Path": "OctagonPanels-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "8_Ch_Connector_CAEN_Adapter-Edge_Cuts.gbr",
+      "Path": "OctagonPanels-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
@@ -100,10 +116,34 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.1,
       "Material": "FR4",
-      "Name": "F.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
+      "Name": "F.Cu/In1.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In1.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 1.24,
+      "Material": "FR4",
+      "Name": "In1.Cu/In2.Cu",
+      "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In2.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1,
+      "Material": "FR4",
+      "Name": "In2.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 3 (from In2.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
