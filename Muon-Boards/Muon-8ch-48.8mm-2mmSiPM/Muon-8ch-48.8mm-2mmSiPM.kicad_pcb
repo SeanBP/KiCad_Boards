@@ -4811,7 +4811,7 @@
 			)
 		)
 	)
-	(gr_text "2 mm SiPMs\nS14160-1315PS\n48.8 x 48.8 mm2 scint cells\nVersion 1"
+	(gr_text "2 mm SiPMs\nS13360-2050VE\n48.8 x 48.8 mm2 scint cells\nVersion 1"
 		(at 182.7 95.2 0)
 		(layer "F.SilkS")
 		(uuid "3bb5e77f-9c25-4fdf-ad32-d98b99f3f210")
