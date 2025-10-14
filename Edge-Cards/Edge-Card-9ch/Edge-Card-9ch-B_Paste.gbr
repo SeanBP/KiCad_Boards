@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
-%TF.CreationDate,2025-10-13T17:55:50-07:00*%
-%TF.ProjectId,IV_Board_9ch_latch,49565f42-6f61-4726-945f-3963685f6c61,rev?*%
+%TF.CreationDate,2025-10-13T17:49:52-07:00*%
+%TF.ProjectId,Edge-Card-9ch,45646765-2d43-4617-9264-2d3963682e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.2) date 2025-10-13 17:55:50*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-10-13 17:49:52*
 %MOMM*%
 %LPD*%
 G01*
