@@ -1,0 +1,10 @@
+list of component models:
+
+https://www.digikey.com/en/products/detail/adam-tech/PH1-02-UA/9830266?_gl=1*7h5hzt*[…]_D_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLlgBGx4jDMKsjPo89mufc_xBU
+https://www.mouser.com/ProductDetail/Vishay/CRCW06031K50FKED?qs=Imq1NPwxi74Oo7KSPMAQAA%3D%3D
+https://www.mouser.com/ProductDetail/Vishay-Draloric/RCA12101K00FKEAHP?qs=rrS6PyfT74dzAZxogynzFQ%3D%3D
+https://www.mouser.com/ProductDetail/Vishay-Techno/CRMA2010AF550KFKEF?qs=sGAEpiMZZMvdGkrng054tz1y1XEHv7sNaxLLCacWVlyBP2Kbr7y81A%3D%3D
+https://www.mouser.com/ProductDetail/YAGEO/AC0603KPX7R0BB103?qs=A6eO%252BMLsxmRTrEaKCRB8wg%3D%3D
+https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MSASA32MAB5337MPNDT1?qs=tlsG%2FOw5FFie0NXdoWuiYg%3D%3D
+https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MSASE168SB5105KTNA01?qs=yc9RBI4tIAKZAWDraq01Cw%3D%3D
+https://www.mouser.com/ProductDetail/Analog-Devices/ADA4528-1ARMZ?qs=BpaRKvA4VqEW%2F3eYP7z7%252BQ%3D%3D&utm_id=22337522785&utm_source=google&utm_medium=cpc&utm_marketing_tactic=amercorp&gad_source=1&gad_campaignid=22327353774&gbraid=0AAAAADn_wf0oxhRYFZop8SQR9WdWmxYs4&gclid=Cj0KCQjwp7jOBhDGARIsABe7C4ev5lZmTZ7zu_UOkX3K_GlO-Ij_LVc3EwWafGP7VrZFkpo9kr-Ut-MaAsvyEALw_wcB
