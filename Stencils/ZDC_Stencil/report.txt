@@ -1,0 +1,6 @@
+Plotted to '/Users/seanbp/Documents/KiCad_Boards/Stencil/Stencil_ZDC-F_Cu.gbr'.
+Plotted to '/Users/seanbp/Documents/KiCad_Boards/Stencil/Stencil_ZDC-B_Cu.gbr'.
+Plotted to '/Users/seanbp/Documents/KiCad_Boards/Stencil/Stencil_ZDC-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/seanbp/Documents/KiCad_Boards/Stencil/Stencil_ZDC-job.gbrjob'.
+Info: Done.
+Info: Done.
